@@ -19,3 +19,9 @@ Tally Data. It matches the GSTIN Number with their Invoice Number.
 * An example of **Final Excel Sheet** has also been added to get an overview.
 * Suggestion:
   * To hide the code from anyone seeing the password -> use **pyarmor** to obfuscate python scripts (https://pypi.org/project/pyarmor/)
+
+### Requirements
+* Jinja2==3.0.1
+* openpyxl==3.0.7
+* pandas==1.2.4
+* progress-bar==8
