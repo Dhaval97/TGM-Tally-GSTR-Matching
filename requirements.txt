@@ -1,0 +1,4 @@
+Jinja2==3.0.1
+openpyxl==3.0.7
+pandas==1.2.4
+progress-bar==8
