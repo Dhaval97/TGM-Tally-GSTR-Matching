@@ -14,7 +14,7 @@ Tally Data. It matches the GSTIN Number with their Invoice Number.
 * **DO NOT** change the column names and excel sheet_name in TGM.xlsx (you can change the file name though)
 * Run the program in python command line **ONLY**
 
-### Disclaimer
+### Note
 * Data from the Excel sheets has been removed for **PRIVACY PURPOSE**
 * An example of **Final Excel Sheet** has also been added to get an overview.
 * Suggestion:
